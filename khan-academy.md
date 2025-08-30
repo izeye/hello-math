@@ -17,3 +17,4 @@
   * [Creating a bar graph](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/creating-bar-charts-1)
   * [Reading bar charts: comparing two sets of data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-2)
   * [Reading bar charts: putting it together with central tendency](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-3)
+  * [Reading pie graphs (circle graphs)](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-pie-graphs-circle-graphs)
