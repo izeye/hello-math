@@ -14,3 +14,4 @@
   * [Reading pictographs](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-pictographs)
   * [Reading bar graphs](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-graphs)
   * [Reading bar graphs: Harry Potter](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-1)
+  * [Creating a bar graph](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/creating-bar-charts-1)
