@@ -18,3 +18,5 @@
   * [Reading bar charts: comparing two sets of data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-2)
   * [Reading bar charts: putting it together with central tendency](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-bar-charts-3)
   * [Reading pie graphs (circle graphs)](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/v/reading-pie-graphs-circle-graphs)
+* Lesson 2: Two-way tables
+  * [Two-way frequency tables and Venn diagrams](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/two-way-frequency-tables-and-venn-diagrams)
