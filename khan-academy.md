@@ -21,3 +21,4 @@
 * Lesson 2: Two-way tables
   * [Two-way frequency tables and Venn diagrams](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/two-way-frequency-tables-and-venn-diagrams)
   * [Two-way relative frequency tables](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/two-way-relative-frequency-tables)
+  * [Interpreting two-way tables](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/interpreting-two-way-tables)
