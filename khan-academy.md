@@ -23,3 +23,4 @@
   * [Two-way relative frequency tables](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/two-way-relative-frequency-tables)
   * [Interpreting two-way tables](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/interpreting-two-way-tables)
   * [Categorical data example](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/video-games-and-violence-bivariate-data)
+  * [Analyzing trends in categorical data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/analyzing-trends-categorical-data)
