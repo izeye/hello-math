@@ -24,3 +24,5 @@
   * [Interpreting two-way tables](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/interpreting-two-way-tables)
   * [Categorical data example](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/video-games-and-violence-bivariate-data)
   * [Analyzing trends in categorical data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/v/analyzing-trends-categorical-data)
+* Lesson 3: Distributions in two-way tables
+  * [Marginal and conditional distributions](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/distributions-in-two-way-tables/v/marginal-distribution-and-conditional-distribution)
