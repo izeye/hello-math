@@ -29,3 +29,4 @@
 
 ### Unit 2: Displaying and comparing quantitative data
 * [Representing data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/ways-to-represent-data)
+* [Frequency tables & dot plots](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/frequency-tables-and-dot-plots)
