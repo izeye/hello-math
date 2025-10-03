@@ -32,3 +32,4 @@
 * [Frequency tables & dot plots](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/frequency-tables-and-dot-plots)
 * [Creating a histogram](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/histograms-intro)
 * [Histograms](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/histograms)
+* [Interpreting a histogram](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/interpreting-histograms)
