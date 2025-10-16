@@ -62,3 +62,4 @@
 * [Interpreting a histogram](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/interpreting-histograms)
 * [Create histograms](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/e/creating-histograms)
 * [Read histograms](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/e/reading-histograms)
+* [Histograms review](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/a/histograms-review)
