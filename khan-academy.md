@@ -63,3 +63,4 @@
 * [Create histograms](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/e/creating-histograms)
 * [Read histograms](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/e/reading-histograms)
 * [Histograms review](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/a/histograms-review)
+* [Stem-and-leaf plots](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/v/u08-l1-t2-we3-stem-and-leaf-plots)
