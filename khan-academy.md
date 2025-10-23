@@ -69,3 +69,5 @@
   * [Reading stem and leaf plots](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/e/reading_stem_and_leaf_plots)
   * [Stem and leaf plots review](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/a/stem-and-leaf-plots-review)
   * [Quiz 1](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/quiz/displaying-describing-data-quiz-1)
+* Lesson 2: Describing and comparing distributions
+  * [Shapes of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/shapes-of-distributions)
