@@ -71,3 +71,4 @@
   * [Quiz 1](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/quantitative-data-graphs/quiz/displaying-describing-data-quiz-1)
 * Lesson 2: Describing and comparing distributions
   * [Shapes of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/shapes-of-distributions)
+  * [Shape of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/shape-of-distributions)
