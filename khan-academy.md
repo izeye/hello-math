@@ -72,3 +72,4 @@
 * Lesson 2: Describing and comparing distributions
   * [Shapes of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/shapes-of-distributions)
   * [Shape of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/shape-of-distributions)
+  * [Clusters, gaps, peaks & outliers](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions)
