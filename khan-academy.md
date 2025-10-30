@@ -74,3 +74,4 @@
   * [Shape of distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/shape-of-distributions)
   * [Clusters, gaps, peaks & outliers](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions)
   * [Clusters, gaps, & peaks in data distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/clusters--gaps--peaks--and-outliers)
+  * [Comparing distributions with dot plots (example problem)](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-swim-times-at-the-olympics)
