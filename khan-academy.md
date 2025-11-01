@@ -76,3 +76,4 @@
   * [Clusters, gaps, & peaks in data distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/clusters--gaps--peaks--and-outliers)
   * [Comparing distributions with dot plots (example problem)](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-swim-times-at-the-olympics)
   * [Comparing distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/comparing-populations)
+  * [Comparing dot plots, histograms, and box plots](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-dot-plots-histograms-and-box-plots)
