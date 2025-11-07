@@ -81,3 +81,4 @@
   * [Example: Comparing distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-distributions)
   * [Comparing data distributions](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/interpreting-and-comparing-data-distributions)
   * [Comparing center and spread](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/e/comparing-distribution)
+  * [Quiz 2](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/quiz/displaying-describing-data-quiz-2)
