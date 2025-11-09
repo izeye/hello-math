@@ -84,3 +84,4 @@
   * [Quiz 2](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/quiz/displaying-describing-data-quiz-2)
 * Lesson 3: More on data displays
   * [Reading line graphs](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays/v/u08-l1-t2-we2-reading-line-graphs)
+  * [Misleading line graphs](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays/v/misleading-line-graphs)
