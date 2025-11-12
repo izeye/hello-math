@@ -90,3 +90,4 @@
 ## Unit 3: Summarizing quantitative data
 * Lesson 1: Measuring center in quantitative data
   * [Statistics intro: Mean, median, & mode](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/v/statistics-intro-mean-median-and-mode)
+  * [Mean, median, & mode example](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/v/mean-median-and-mode)
