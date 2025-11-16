@@ -93,3 +93,4 @@
   * [Mean, median, & mode example](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/v/mean-median-and-mode)
   * [Mean, median, and mode](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/e/mean_median_and_mode)
   * [Calculating the mean](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/calculating-the-mean)
+  * [Calculating the mean](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/e/calculating-the-mean)
