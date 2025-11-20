@@ -98,3 +98,5 @@
   * [Choosing the "best" measure of center](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/choosing-the-best-measure-of-center)
   * [Mean, median, and mode review](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review)
   * [Quiz 1](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/quiz/summarizing-quantitative-data-quiz-1)
+* Lesson 2: More on mean and median
+  * [Calculating the mean: data displays](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/calculating-the-mean-from-various-data-displays)
