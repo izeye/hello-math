@@ -101,3 +101,4 @@
 * Lesson 2: More on mean and median
   * [Calculating the mean: data displays](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/calculating-the-mean-from-various-data-displays)
   * [Calculating the median: data displays](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/calculating-the-median-from-data-displays)
+  * [Comparing means of distributions](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-distribution-means)
