@@ -103,3 +103,4 @@
   * [Calculating the median: data displays](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/calculating-the-median-from-data-displays)
   * [Comparing means of distributions](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-distribution-means)
   * [Means and medians of different distributions](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-means-and-medians)
+  * [Impact on median & mean: removing an outlier](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/impact-on-median-and-mean-when-removing-lowest-value-example)
