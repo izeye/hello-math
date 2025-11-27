@@ -105,3 +105,4 @@
   * [Means and medians of different distributions](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/comparing-means-and-medians)
   * [Impact on median & mean: removing an outlier](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/impact-on-median-and-mean-when-removing-lowest-value-example)
   * [Impact on median & mean: increasing an outlier](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/impact-on-median-and-mean-when-increasing-highest-value)
+  * [Effects of shifting, adding, & removing a data point](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point)
