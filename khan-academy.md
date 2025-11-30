@@ -108,3 +108,4 @@
   * [Effects of shifting, adding, & removing a data point](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/effects-of-shifting-adding-removing-data-point)
   * [Mean as the balancing point](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/a/mean-as-the-balancing-point)
   * [Missing value given the mean](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/using-mean-to-find-missing-value)
+  * [Missing value given the mean](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/find-a-missing-value-given-the-mean)
