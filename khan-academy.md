@@ -111,3 +111,4 @@
   * [Missing value given the mean](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/find-a-missing-value-given-the-mean)
   * [Median & range puzzlers](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/v/median-and-range-puzzle)
   * [Median & range puzzlers](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/e/median-and-range-puzzlers)
+  * [Quiz 2](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median/quiz/summarizing-quantitative-data-quiz-2)
