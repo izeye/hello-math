@@ -115,3 +115,4 @@
 * Lesson 3: Interquartile range (IQR)
   * [Interquartile range (IQR)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/v/calculating-interquartile-range-iqr)
   * [Interquartile range (IQR)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/e/calculating-the-interquartile-range--iqr-)
+  * [Comparing range and interquartile range (IQR)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/a/range-and-interquartile-range-worksheet)
