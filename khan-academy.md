@@ -117,3 +117,5 @@
   * [Interquartile range (IQR)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/e/calculating-the-interquartile-range--iqr-)
   * [Comparing range and interquartile range (IQR)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/a/range-and-interquartile-range-worksheet)
   * [Interquartile range review](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr/a/interquartile-range-review)
+* Lesson 4: Variance and standard deviation of a population
+  * [Measures of spread: range, variance & standard deviation](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/range-variance-and-standard-deviation-as-measures-of-dispersion)
