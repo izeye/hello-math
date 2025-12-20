@@ -125,3 +125,4 @@
   * [Calculating standard deviation step by step](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/calculating-standard-deviation-step-by-step)
   * [Standard deviation of a population](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/e/standard_deviation_of_a_population)
   * [Mean and standard deviation versus median and IQR](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/mean-and-standard-deviation-versus-median-and-iqr)
+  * [Concept check: Standard deviation](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/concept-check-standard-deviation)
