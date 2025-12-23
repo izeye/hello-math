@@ -127,3 +127,5 @@
   * [Mean and standard deviation versus median and IQR](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/mean-and-standard-deviation-versus-median-and-iqr)
   * [Concept check: Standard deviation](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/concept-check-standard-deviation)
   * [Statistics: Alternate variance formulas](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/statistics-alternate-variance-formulas)
+* Lesson 5: Variance and standard deviation of a sample
+  * [Sample variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-variance)
