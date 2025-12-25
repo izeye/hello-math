@@ -130,3 +130,4 @@
 * Lesson 5: Variance and standard deviation of a sample
   * [Sample variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-variance)
   * [Sample standard deviation and bias](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-standard-deviation-and-bias)
+  * [Variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/e/variance)
