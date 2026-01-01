@@ -134,3 +134,5 @@
   * [Sample and population standard deviation](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/e/standard_deviation)
   * [Population and sample standard deviation review](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review)
 * [Quiz 3](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/quiz/summarizing-quantitative-data-quiz-3)
+* Lesson 6: More on standard deviation
+  * [Why we divide by n - 1 in variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance)
