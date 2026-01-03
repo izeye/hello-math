@@ -137,3 +137,4 @@
 * Lesson 6: More on standard deviation
   * [Why we divide by n - 1 in variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance)
   * [Simulation showing bias in sample variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/simulation-showing-bias-in-sample-variance)
+  * [Simulation providing evidence that (n-1) gives us unbiased estimate](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/simulation-providing-evidence-that-n-1-gives-us-unbiased-estimate)
