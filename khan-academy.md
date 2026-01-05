@@ -140,3 +140,5 @@
   * [Simulation providing evidence that (n-1) gives us unbiased estimate](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/simulation-providing-evidence-that-n-1-gives-us-unbiased-estimate)
   * [Unbiased estimate of population variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/a/unbiased-estimate-of-population-variance)
   * [Review and intuition why we divide by n-1 for the unbiased sample variance](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation/v/review-and-intuition-why-we-divide-by-n-1-for-the-unbiased-sample-variance)
+* Lesson 7: Box and whisker plots
+  * [Worked example: Creating a box plot (odd number of data points)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/box-and-whisker-plot-exercise-example)
