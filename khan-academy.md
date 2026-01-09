@@ -145,3 +145,4 @@
   * [Worked example: Creating a box plot (even number of data points)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/another-example-constructing-box-plot)
   * [Constructing a box plot](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/constructing-a-box-and-whisker-plot)
   * [Creating box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/box-plots)
+  * [Reading box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/reading-box-and-whisker-plots)
