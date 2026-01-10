@@ -146,3 +146,4 @@
   * [Constructing a box plot](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/constructing-a-box-and-whisker-plot)
   * [Creating box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/box-plots)
   * [Reading box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/reading-box-and-whisker-plots)
+  * [Reading box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/analyzing-data-with-box-plots)
