@@ -148,3 +148,4 @@
   * [Reading box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/reading-box-and-whisker-plots)
   * [Reading box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/analyzing-data-with-box-plots)
   * [Interpreting box plots](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/interpreting-box-plots)
+  * [Interpreting quartiles](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/interpreting-quartiles-on-box-plots)
