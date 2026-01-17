@@ -153,3 +153,5 @@
   * [Judging outliers in a dataset](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/judging-outliers-in-a-dataset)
   * [Identifying outliers](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/e/identifying-outliers)
   * [Identifying outliers with the 1.5xIQR rule](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/identifying-outliers-iqr-rule)
+* Lesson 8: Other measures of spread
+  * [Range and mid-range](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/v/range-and-mid-range)
