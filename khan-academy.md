@@ -161,3 +161,7 @@
   * [Mean absolute deviation (MAD) review](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/a/mean-absolute-deviation-mad-review)
 * [Quiz 4](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/quiz/summarizing-quantitative-data-quiz-4)
 * [Unit test](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/test/summarizing-quantitative-data-unit-test)
+
+## Unit 4: Modeling data distributions
+* Lesson 1: Percentiles
+  * [Calculating percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/v/calculating-percentile)
