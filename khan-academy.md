@@ -165,3 +165,4 @@
 ## Unit 4: Modeling data distributions
 * Lesson 1: Percentiles
   * [Calculating percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/v/calculating-percentile)
+  * [Calculate percentiles](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/e/calculating-percentiles)
