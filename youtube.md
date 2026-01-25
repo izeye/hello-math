@@ -4,3 +4,4 @@
 
 ## High School
 * [[고2가 꼭❗ 알아야 하는 수학개념] 사인법칙](https://www.youtube.com/watch?v=FD3rcyhbmlU)
+* [[고2가 꼭❗ 알아야 하는 수학개념] 코사인법칙](https://www.youtube.com/watch?v=cnPNH0_MBkE)
