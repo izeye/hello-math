@@ -166,3 +166,4 @@
 * Lesson 1: Percentiles
   * [Calculating percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/v/calculating-percentile)
   * [Calculate percentiles](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/e/calculating-percentiles)
+  * [Analyzing a cumulative relative frequency graph](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/v/analyzing-a-cumulative-relative-frequency-graph)
