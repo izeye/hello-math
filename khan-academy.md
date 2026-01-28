@@ -170,3 +170,4 @@
   * [Cumulative relative frequency graph problem](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles/a/cumulative-relative-frequency-graph-problem)
 * Lesson 2: Z-scores
   * [Normal distribution problem: z-scores (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score)
+  * [Comparing with z-scores](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/comparing-with-z-scores)
