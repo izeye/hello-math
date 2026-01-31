@@ -173,3 +173,5 @@
   * [Comparing with z-scores](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/comparing-with-z-scores)
   * [Calculating z-scores](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/e/z_scores_1)
   * [Z-scores review](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/a/z-scores-review)
+* Lesson 3: Effects of linear transformations
+  * [How parameters change as data is shifted and scaled](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/v/how-parameters-change-as-data-is-shifted-and-scaled)
