@@ -176,3 +176,4 @@
 * Lesson 3: Effects of linear transformations
   * [How parameters change as data is shifted and scaled](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/v/how-parameters-change-as-data-is-shifted-and-scaled)
   * [Transforming data](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data)
+  * [Transforming data problem](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/a/transforming-data-problem)
