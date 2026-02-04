@@ -179,3 +179,4 @@
   * [Transforming data problem](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/a/transforming-data-problem)
 * Lesson 4: Density curves
   * [Density Curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curves)
+  * [Median, mean and skew from density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/median-mean-and-skew-from-density-curves)
