@@ -181,3 +181,4 @@
   * [Density Curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curves)
   * [Median, mean and skew from density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/median-mean-and-skew-from-density-curves)
   * [Density curve worked example](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curve-worked-example)
+  * [Properties of density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/e/density-curves)
