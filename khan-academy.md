@@ -184,3 +184,4 @@
   * [Properties of density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/e/density-curves)
   * [Worked example finding area under density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/worked-example-finding-area-under-density-curves)
   * [Area under density curves](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/e/area-under-density-curves)
+* [Quiz 1](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/quiz/modeling-distributions-of-data-quiz-1)
