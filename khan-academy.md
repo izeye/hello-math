@@ -189,3 +189,4 @@
   * [Qualitative sense of normal distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
   * [Normal distribution problems: Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-empirical-rule)
   * [Standard normal distribution and the empirical rule (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule)
+  * [More empirical rule and z-score practice (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-more-empirical-rule-and-z-score-practice)
