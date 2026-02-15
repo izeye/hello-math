@@ -191,3 +191,4 @@
   * [Standard normal distribution and the empirical rule (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule)
   * [More empirical rule and z-score practice (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-more-empirical-rule-and-z-score-practice)
   * [Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/e/empirical_rule)
+  * [Normal distributions review](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/a/normal-distributions-review)
