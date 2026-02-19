@@ -196,3 +196,4 @@
   * [Standard normal table for proportion below](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/z-table-for-proportion-below)
   * [Standard normal table for proportion above](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/z-table-for-proportion-above)
   * [Standard normal table for proportion between values](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/z-table-for-proportion-between-values)
+  * [Normal distribution: Area above or below a point](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/e/z_scores_2)
