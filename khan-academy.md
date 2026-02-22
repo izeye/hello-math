@@ -199,3 +199,4 @@
   * [Normal distribution: Area above or below a point](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/e/z_scores_2)
   * [Normal distribution: Area between two points](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/e/z_scores_3)
   * [Finding z-score for a percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/finding-z-score-for-a-percentile)
+  * [Threshold for low percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/threshold-for-low-percentile)
