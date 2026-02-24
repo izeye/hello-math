@@ -201,3 +201,4 @@
   * [Finding z-score for a percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/finding-z-score-for-a-percentile)
   * [Threshold for low percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/threshold-for-low-percentile)
   * [Normal calculations in reverse](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/e/normal-calculations-3)
+  * [Basic normal calculations](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/a/basic-normal-calculations)
