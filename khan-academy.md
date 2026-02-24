@@ -202,3 +202,4 @@
   * [Threshold for low percentile](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/threshold-for-low-percentile)
   * [Normal calculations in reverse](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/e/normal-calculations-3)
   * [Basic normal calculations](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/a/basic-normal-calculations)
+* [Quiz 2](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/quiz/modeling-distributions-of-data-quiz-2)
