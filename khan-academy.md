@@ -205,3 +205,4 @@
 * [Quiz 2](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/quiz/modeling-distributions-of-data-quiz-2)
 * Lesson 7: More on normal distributions
   * [Deep definition of the normal distribution](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
+  * [Normal distribution excel exercise](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/normal-distribution-excel-exercise)
