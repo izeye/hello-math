@@ -211,3 +211,4 @@
 ## Unit 5: Exploring bivariate numerical data
 * Lesson 1: Introduction to scatterplots
   * [Constructing a scatter plot](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/v/constructing-scatter-plot)
+  * [Constructing scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/e/constructing-scatter-plots)
