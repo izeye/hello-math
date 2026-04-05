@@ -213,3 +213,4 @@
   * [Constructing a scatter plot](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/v/constructing-scatter-plot)
   * [Constructing scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/e/constructing-scatter-plots)
   * [Making appropriate scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/e/making-good-scatter-plots)
+  * [Example of direction in scatterplots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/v/scatter-plot-interpreting)
