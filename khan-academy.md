@@ -217,3 +217,4 @@
   * [Scatter plot: smokers](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/v/trends-in-smoking-scatter-plot)
   * [Bivariate relationship linearity, strength and direction](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/v/bivariate-relationship-linearity-strength-and-direction)
   * [Positive and negative linear associations from scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/e/positive-and-negative-linear-correlations-from-scatter-plots)
+  * [Describing trends in scatterplots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/e/interpreting-scatter-plots)
