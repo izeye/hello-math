@@ -221,3 +221,4 @@
   * [Positive and negative associations in scatterplots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/constructing-and-interpreting-a-scatterplot)
   * [Outliers in scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/outliers-in-scatter-plots)
   * [Clusters in scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/clusters-in-scatter-plots)
+  * [Describing scatterplots (form, direction, strength, outliers)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/describing-scatterplots-form-direction-strength-outliers)
