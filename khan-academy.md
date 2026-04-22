@@ -222,3 +222,4 @@
   * [Outliers in scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/outliers-in-scatter-plots)
   * [Clusters in scatter plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/clusters-in-scatter-plots)
   * [Describing scatterplots (form, direction, strength, outliers)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/describing-scatterplots-form-direction-strength-outliers)
+  * [Scatterplots and correlation review](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/scatterplots-and-correlation-review)
