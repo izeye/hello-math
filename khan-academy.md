@@ -226,3 +226,4 @@
 * Lesson 2: Correlation coefficients
   * [Example: Correlation coefficient intuition](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/v/correlation-coefficient-intuition-examples)
   * [Correlation coefficient intuition](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/e/correlation-coefficient-intuition)
+  * [Calculating correlation coefficient r](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/v/calculating-correlation-coefficient-r)
