@@ -228,3 +228,4 @@
   * [Correlation coefficient intuition](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/e/correlation-coefficient-intuition)
   * [Calculating correlation coefficient r](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/v/calculating-correlation-coefficient-r)
   * [Correlation coefficient review](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
+* [Quiz 1](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/quiz/describing-relationships-quantitative-data-quiz-1)
