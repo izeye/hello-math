@@ -232,3 +232,4 @@
 * Lesson 3: Introduction to trend lines
   * [Fitting a line to data](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/v/fitting-a-line-to-data)
   * [Estimating the line of best fit exercise](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/v/estimating-the-line-of-best-fit-exercise)
+  * [Eyeballing the line of best fit](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/e/plotting_the_line_of_best_fit)
