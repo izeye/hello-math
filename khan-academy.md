@@ -237,3 +237,4 @@
   * [Estimating equations of lines of best fit, and using them to make predictions](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/e/equations-of-lines-of-best-fit-to-make-predictions)
   * [Line of best fit: smoking in 1945](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/v/smoking-1945-extrapolation)
   * [Estimating slope of line of best fit](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/e/linear-models-of-bivariate-data)
+  * [Equations of trend lines: Phone data](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/a/equations-of-trend-lines-phone-data)
