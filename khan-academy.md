@@ -238,3 +238,4 @@
   * [Line of best fit: smoking in 1945](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/v/smoking-1945-extrapolation)
   * [Estimating slope of line of best fit](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/e/linear-models-of-bivariate-data)
   * [Equations of trend lines: Phone data](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/a/equations-of-trend-lines-phone-data)
+  * [Linear regression review](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/a/linear-regression-review)
