@@ -242,3 +242,4 @@
 * [Quiz 2](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines/quiz/describing-relationships-quantitative-data-quiz-2)
 * Lesson 4: Least-squares regression equations
   * [Introduction to residuals and least squares regression](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/introduction-to-residuals-and-least-squares-regression)
+  * [Introduction to residuals](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/a/introduction-to-residuals)
