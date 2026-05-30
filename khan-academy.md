@@ -246,3 +246,4 @@
   * [Calculating residual example](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/calculating-residual-example)
   * [Calculating and interpreting residuals](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/e/calculating-interpreting-residuals)
   * [Calculating the equation of a regression line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/calculating-the-equation-of-a-regression-line)
+  * [Calculating the equation of the least-squares line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/e/calculating-equation-least-squares)
