@@ -248,3 +248,4 @@
   * [Calculating the equation of a regression line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/calculating-the-equation-of-a-regression-line)
   * [Calculating the equation of the least-squares line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/e/calculating-equation-least-squares)
   * [Interpreting slope of regression line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/interpreting-slope-of-regression-line)
+  * [Interpreting y-intercept in regression model](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/interpreting-y-intercept-in-regression-model)
