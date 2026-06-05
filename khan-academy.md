@@ -252,3 +252,5 @@
   * [Interpreting a trend line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/v/interpreting-trend-line)
   * [Interpreting slope and y-intercept for linear models](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/e/interpreting-slope-and-y-intercept-of-lines-of-best-fit)
 * [Quiz 3](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/quiz/describing-relationships-quantitative-data-quiz-3)
+* Lesson 5: Assessing the fit in least-squares regression
+  * [Residual plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/residual-plots)
