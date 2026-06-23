@@ -258,3 +258,4 @@
   * [R-squared intuition](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/a/r-squared-intuition)
   * [R-squared or coefficient of determination](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/r-squared-or-coefficient-of-determination)
   * [Standard deviation of residuals or Root-mean-square error (RMSD)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd)
+  * [Interpreting computer regression data](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/interpreting-computer-regression-data)
